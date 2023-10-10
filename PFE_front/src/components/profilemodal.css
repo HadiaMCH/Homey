@@ -1,0 +1,72 @@
+.container2 {
+  max-height: 80vh;
+  overflow-y: auto; 
+}
+
+.form-group {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .edit-icon {
+    cursor: pointer;
+    color: white;
+    margin-left: 5px;
+  }
+  
+  .edit-icon:hover {
+    text-decoration: underline;
+  }
+  
+  .profile-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Added */
+    width: 100%;
+  }
+  
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox-container label {
+    margin-left: 10px;
+  }
+  
+  .btn-custom {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .btn-custom:hover {
+    background-color: #0056b3;
+  }  
+
+  .checkbox-edit {
+    width :100%;
+    display: flex;
+    align-items: center;
+  }
+
+  .checkbox-edit input {
+    width :10%;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .btn-cancel {
+    align-self: flex-end;
+  }
+  
+  .btn-custom {
+    align-self: flex-start;
+  }  

@@ -1,0 +1,60 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .modal-content {
+    background-color: #fff;
+    width: 80%;
+    max-height: 75%; 
+    padding: 2%;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+  }
+  
+  .modal-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .modal-text {
+    text-align: left;
+  }  
+
+.failure-list {
+  margin-top: 20px;
+  padding-top: 10px;
+}
+
+.failure-list h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.failure-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.failure-list th, .failure-list td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+  color: black; /* Set the text color to black */
+}
+
+.failure-list th {
+  font-weight: bold;
+}

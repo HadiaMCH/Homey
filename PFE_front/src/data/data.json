@@ -1,0 +1,92 @@
+{
+  "Testimonials": [],
+  "Header": {
+    "title": "Welcome to Homey",
+    "paragraph": "Empowering Remote Insight: Anticipate Equipment Failures from Anywhere"
+  },
+  "About": {
+    "paragraph": "At Homey, we are dedicated to revolutionizing the way industries approach equipment maintenance and reliability. Our cutting-edge technology and expertise allow us to provide unparalleled insights into equipment health, enabling you to make informed decisions and take proactive measures to prevent failures. With a team of skilled professionals and a commitment to innovation, we are here to transform your maintenance strategies and elevate operational efficiency to new heights.",
+    "Why": [
+      "Predictive Insights",
+      "Remote Monitoring",
+      "Cost Savings",
+      "Time saving"
+    ],
+    "Why2": [
+      "Continuous Innovation",
+      "Data-Driven Decisions",
+      "Increased Efficiency"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "Equipment Profile Creation",
+      "text": "Build detailed equipment profiles, recording crucial data such as make, model, specifications, and usage patterns, for precise analysis in a comprehensive database."
+    },
+    {
+      "icon": "fa fa-history",
+      "name": "Historical Failure Tracking",
+      "text": "Keep track of past equipment failures, maintenance records, and downtime incidents. Access a detailed history of each equipment's performance and identify trends over time."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Predictive Failure Analysis",
+      "text": "Leverage machine learning to forecast potential equipment failures. Analyze historical data and current operating conditions to predict failure risks and optimize maintenance strategies."
+    },
+    {
+      "icon": "fa fa-calendar",
+      "name": "Maintenance Scheduling",
+      "text": "Plan and schedule equipment maintenance based on real-time data and predictive insights. Ensure that maintenance tasks are performed proactively to minimize unplanned downtime."
+    },
+    {
+      "icon": "fa fa-bell",
+      "name": "Notification Alerts",
+      "text": "Receive instant alerts and notifications when an equipment failure is imminent or when maintenance tasks are due. Stay informed about critical events and take timely actions."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Performance Analytics and Reporting",
+      "text": "Access comprehensive performance reports and analytics for each equipment. Monitor key performance indicators, visualize trends, and make data-driven decisions for optimization."
+    }
+  ], 
+  "Features": {
+    "paragraph": "Here a comprehensive overview of the equipment's attributes, including its identification details, usage patterns, maintenance history, and failure history. These attributes collectively help to define the equipment's functionality, health, and operational history.",
+    "features1": [
+      "Model: the equipement model.",
+      "Serial Number: Unique identifier assigned for tracking.",
+      "Current Health: Operational status.",
+      "Additional Factories: Information on supplementary manufacturing facilities." 
+    ],
+    "features2": [
+      "Installation Date: Date of initial equipment installation.",
+      "Last Maintenance Date: Most recent maintenance date.",
+      "Guarantee information: an text about the Guarantee.",
+      "Failure History: Log of past failures with failure types, causes, and dates."
+    ]
+  }, 
+  "FeaturesModel": {
+    "features1": [
+      "Type: Categorizes the equipment.",
+      "Make: Manufacturer or brand of the equipment.",
+      "Model: Specific model number assigned by the manufacturer."
+    ],
+    "features2": [
+      "Usage Patterns: Usage frequency.",
+      "Location: Physical placement or room.",
+      "Manual Instructions: Comprehensive guidelines."
+    ]
+  },  
+  "Contact": {
+    "address": "Rue Galt Ouest, QC, Sherbrooke, Canada",
+    "phone": "+1 819 434 7167",
+    "email": "ih_mecheri@esi.dz"
+  },
+  "Gallery": [
+
+  ]
+  ,
+  "UserGallery":[
+    
+  ]
+}

@@ -1,0 +1,22 @@
+.failure-history-entry {
+  margin-bottom: 10px;
+}
+
+.failure-history-row {
+  display: flex;
+  align-items: center;
+}
+
+.input-container {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.center-button {
+  text-align: center;
+  margin-top: 10px;
+}

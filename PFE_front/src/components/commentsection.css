@@ -1,0 +1,87 @@
+/* CommentSection.css */
+
+.comment-section {
+    margin: 20px;
+  }
+
+  .comment-header {
+    display: flex;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+
+  .comment-section h3 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    padding-bottom:5%;
+    text-align:left;
+    width:100%;
+  }
+
+  .comment-section form {
+    padding : 5%;
+    display : flex;
+    margin-bottom: 10px;
+    font-size: 0.75em;
+    background-color: #f6f6f6;
+  }
+
+  .comment-section input {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: black;
+  }
+
+  .comment-section button {
+    width: 30%;
+    padding: 10px;
+    font-size: 0.75em;
+  }
+
+  .comment-section .icon {
+    align-self: center;
+  }
+  
+  .comment-info {
+    width:100%;
+    display: inline-grid;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-left : 5%;
+    padding-right:5%;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .comment-info span {
+    padding-bottom: 8px;
+    font-size:12px;
+    text-align: left;
+    }
+
+  .comment-info h4 {
+    margin : 5 0px;
+    font-size:14px;
+    text-align: left;
+    }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
